@@ -45,7 +45,7 @@
     <bounds
         x="132"
         y="132"
-        width="780"
+        width="985"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -100,10 +100,10 @@
         id="12bb310f-ed61-488b-a04f-10396c875500"
         targetConnections="94ce63b6-70c9-4e36-a776-79f8defa90d4 5df85a92-2bd1-40c7-8d9d-4b33ec4cb453">
       <bounds
-          x="84"
-          y="24"
-          width="649"
-          height="25"/>
+          x="768"
+          y="66"
+          width="205"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
           href="ApplicationFunction_19cf2a52-debb-4fa3-a65f-c41d2c4826cf.xml#19cf2a52-debb-4fa3-a65f-c41d2c4826cf"/>
@@ -536,9 +536,9 @@
           href="ServingRelationship_210927da-8366-470d-9fdc-94fb6a7cafff.xml#210927da-8366-470d-9fdc-94fb6a7cafff"/>
     </sourceConnections>
     <bounds
-        x="924"
-        y="156"
-        width="144"
+        x="948"
+        y="288"
+        width="169"
         height="85"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
